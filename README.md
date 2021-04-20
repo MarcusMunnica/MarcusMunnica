@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @MarcusMunnica
+- 👋 Hi, I’m @Marcus van der Munnik
 - 👀 I’m interested in learning to code
 - 🌱 I’m currently learning C++ / C#
 - 💞️ I’m looking to collaborate on ...
