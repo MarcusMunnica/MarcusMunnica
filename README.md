@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @Marcus van der Munnik
-- 👀 I’m interested in learning to code
+- 👀 I’m interested in learning to code to create games in Unity and Unreal
 - 🌱 I’m currently learning C++ / C#
-- 💞️ I’m looking to collaborate on ...
+- 💞️ I’m looking for likeminded people
 - 📫 How to reach me : www.munnica.com
 
 <!---
